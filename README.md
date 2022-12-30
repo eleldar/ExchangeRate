@@ -1,5 +1,9 @@
 # Exchange Rate Service
 
+## Versions
+* Linux
+* Python 3.10
+
 ## Starting
 ```
 python3 -m venv venv
